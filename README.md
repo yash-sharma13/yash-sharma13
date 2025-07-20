@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Yash Sharma (@yash-sharma13)
 
-I'm a curious tech guy who got into tech not by the rulebook, but by passion and experimentation. I enjoy building things that make machines a bit smarter — whether that's through AI automation or my frustrated mind at 3AM, survivng with a cup of coffee.
+I'm a curious tech guy who got into tech not by the rulebook, but by passion and experimentation. I enjoy building things that make machines a bit smarter, whether that's through AI automation or my frustrated mind at 3AM, survivng with a cup of coffee.
 
 ### 🧠 What I’m Into
 - 🧩 Building AI/ML powered apps & intelligent agents
